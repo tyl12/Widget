@@ -1,4 +1,4 @@
-package com.koushikdutta.widgets.sample;
+package com.xiaomeng.widgets.sample;
 
 import java.util.Date;
 import java.util.List;
@@ -9,10 +9,10 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.view.View;
 
-import com.koushikdutta.widgets.BetterListActivity;
-import com.koushikdutta.widgets.ListContentFragment;
-import com.koushikdutta.widgets.ListContentFragmentInternal;
-import com.koushikdutta.widgets.ListItem;
+import com.xiaomeng.widgets.BetterListActivity;
+import com.xiaomeng.widgets.ListContentFragment;
+import com.xiaomeng.widgets.ListContentFragmentInternal;
+import com.xiaomeng.widgets.ListItem;
 
 public class ListContentTest extends BetterListActivity {
     public ListContentTest() {

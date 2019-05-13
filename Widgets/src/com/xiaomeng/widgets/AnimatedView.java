@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.koushikdutta.widgets;
+package com.xiaomeng.widgets;
 
 import android.view.View;
 import android.view.View.OnClickListener;

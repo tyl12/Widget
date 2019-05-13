@@ -1,12 +1,12 @@
-package com.koushikdutta.widgets.sample;
+package com.xiaomeng.widgets.sample;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
-import com.koushikdutta.widgets.BetterListActivity;
-import com.koushikdutta.widgets.ListItem;
+import com.xiaomeng.widgets.BetterListActivity;
+import com.xiaomeng.widgets.ListItem;
 
 
 public class MainActivity extends BetterListActivity {

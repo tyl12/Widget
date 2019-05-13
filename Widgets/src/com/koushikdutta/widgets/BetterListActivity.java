@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.xiaomeng.widgets;
+package com.koushikdutta.widgets;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
 
-import com.xiaomeng.widgets.BetterListFragment.ActivityBaseFragmentListener;
+import com.koushikdutta.widgets.BetterListFragment.ActivityBaseFragmentListener;
 
 public class BetterListActivity extends Activity implements ActivityBaseFragmentListener {
     Class<? extends BetterListFragment> clazz;
